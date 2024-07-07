@@ -12,7 +12,7 @@ beautifulsoup4==4.10.0
 bencode.py==4.0.0
 bleach==3.3.0
 CacheControl==0.12.6
-certifi==2021.5.30
+certifi==2024.7.4
 cffi==1.14.1
 chardet==3.0.4
 cleverdict==1.9.2
