@@ -70,7 +70,7 @@ pyparsing==2.4.7
 pysrt==1.1.2
 python-dateutil==2.7.5
 python-editor==1.0.4
-python-jose==3.2.0
+python-jose==3.4.0
 python-keycloak-client==0.2.3
 python-twitter==3.5
 pytz==2020.1
